@@ -1,0 +1,513 @@
+{
+  "generated_at": "2026-11-06T14:50:56Z",
+  "feed": "community",
+  "limit": 10,
+  "video_ids": [
+    "d-7o9xYp7eE",
+    "dBnniua6-oM",
+    "b2F-DItXtZs",
+    "-zRN7XLCRhc",
+    "rStL7niR7gs",
+    "7Pq-S557XQU",
+    "PHe0bXAIuk0",
+    "f84n5oFoZBc",
+    "yJDv-zdhzMY",
+    "u6XAPnuFjJc"
+  ],
+  "videos": {
+    "d-7o9xYp7eE": {
+      "title_zh": "别跟警察说话",
+      "blurb_zh": "法学教授深度剖析为何在任何情况下都不应与警察对话。",
+      "highlights": [
+        {
+          "text": "美利坚合众国宪法第五修正案解析",
+          "start": 59.0
+        },
+        {
+          "text": "最高法院大法官杰克逊的法律忠告",
+          "start": 178.0
+        },
+        {
+          "text": "辩护律师因与警察对话而获罪的真实案例",
+          "start": 224.0
+        }
+      ],
+      "comments_zh": [],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 2755,
+        "completion_tokens": 159,
+        "total_tokens": 2914
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 2755,
+        "completion_tokens": 159,
+        "total_tokens": 2914
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:42:32Z"
+    },
+    "dBnniua6-oM": {
+      "title_zh": "糖：苦涩的真相",
+      "blurb_zh": "揭秘糖分如何悄然摧毁健康，颠覆你对肥胖与饮食的传统认知。",
+      "highlights": [
+        {
+          "text": "1:06 罗伯特·卢斯蒂格博士开始演讲",
+          "start": 66.0
+        },
+        {
+          "text": "114.1 探讨阿特金斯饮食与日本饮食的共同点",
+          "start": 114.0
+        },
+        {
+          "text": "232.3 质疑热力学第一定律在肥胖问题上的局限性",
+          "start": 232.0
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "I stopped eating sugar and drinking soda the weekend before Thanksgiving 2020. I started out at 212.8 pounds. I am down to 188.2 pounds, and I feel great. My doctor told me my blood sugar was at the level to be classified as a type 2 diabetic. That did it. I knew I had to change my diet. Sugar was my drug of choice. I have had issues with joint pain for years. I have arthritis, and being overweight for years, and the sugar made it worse. After stopping eating sugar, and losing the weight, my joints have stopped hurting. My mind is clear. I was having issues concentrating. Now I don't. I work 12 hour shifts. I used to feel wiped out by the end of my shift. Now I don't. My wife and I have started keto. She has gone from 235 down to 217. Her joint pain has stopped too. Sugar is poison. It's also addictive. It's literally killing people. Something must be done. Processed foods are formulated to be addictive. Eating healthy is expensive. Eating unhealthy is cheap. That's why poor people are overweight more than people who aren't poor. This has to change. Our society is being destroyed by sugar addiction. All kids should watch this video, as well as adults. Money is all that matters to the powers that be. Our health means nothing. Take control of your health people. It can be done. DO IT!!!!!",
+          "text_zh": "我在2020年感恩节前的周末停止吃糖和喝苏打水。我的体重从212.8磅降到了188.2磅，感觉棒极了。医生说我的血糖达到了2型糖尿病的标准，这让我意识到必须改变饮食。糖就像我的毒品。我多年来一直有关节痛和关节炎的问题，超重和糖分使情况恶化。戒糖并减重后，我的关节不再疼了，思维也清晰了。我上12小时的班，过去下班时总是筋疲力尽，现在不会了。我和妻子开始了生酮饮食，她的体重从235磅降到217磅，关节痛也消失了。糖就是毒药，它会让人上瘾，正在杀死人们。我们必须采取行动！",
+          "likes": 4751
+        },
+        {
+          "original": "I cut all refined sugars out of my diet and eat a 100% whole/clean diet as of 4 months ago and it's like I have found the fountain of youth. I haven't counted calories or gone hungry at all in these last 4 months and I have lost 25 pounds (20 more to go) and my adult acne has cleared up. No big secret, I just make all my own food and I don't buy anything that has more than 3 ingredients in it (all of which I have to be able to pronounce).",
+          "text_zh": "4个月前，我戒掉了所有精制糖，开始100%吃天然/清淡的食物，感觉就像找到了青春之泉。这4个月里我没有计算卡路里，也没有挨饿，体重减轻了25磅（还要再减20磅），成人的青春痘也消失了。没有什么大秘密，我只是自己做饭，不买配料超过3种且名字叫不上来的东西。",
+          "likes": 3305
+        },
+        {
+          "original": "My mom through the 60’s and 70’s never feed us chips or sugary sodas, I think I’ll call her up and tell her I love her!",
+          "text_zh": "我妈妈在60和70年代从不给我们吃薯片或含糖苏打水，我想打电话告诉她我爱她！",
+          "likes": 3029
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 3653,
+        "completion_tokens": 1057,
+        "total_tokens": 4710
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 3653,
+        "completion_tokens": 1057,
+        "total_tokens": 4710
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:38:29Z"
+    },
+    "b2F-DItXtZs": {
+      "title_zh": "第 1 集 - MongoDB 是网络规模的",
+      "blurb_zh": "幽默讽刺NoSQL迷信与关系型数据库的经典技术短片。",
+      "highlights": [
+        {
+          "text": "MongoDB是网络规模的数据库",
+          "start": 11.8
+        },
+        {
+          "text": "关系型数据库不支持扩展",
+          "start": 36.1
+        },
+        {
+          "text": "我辞职去农场干活了",
+          "start": 157.0
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "This video aged like fine wine",
+          "text_zh": "这视频真是越陈越香",
+          "likes": 3558
+        },
+        {
+          "original": "how the fuck is this 14 years old and nothing has changed 😂😭😭",
+          "text_zh": "这特么都14年了，怎么一点都没变 😂😭😭",
+          "likes": 3335
+        },
+        {
+          "original": "\"Mongo DB handles web scale. You turn it on and it scales right up\" \nLMAO",
+          "text_zh": "\"MongoDB能处理网络规模。你一打开它就自动扩展了\" 哈哈哈哈",
+          "likes": 2904
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 2453,
+        "completion_tokens": 338,
+        "total_tokens": 2791
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 2453,
+        "completion_tokens": 338,
+        "total_tokens": 2791
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:39:16Z"
+    },
+    "-zRN7XLCRhc": {
+      "title_zh": "LISA11 - 枝繁叶茂！illumos 的崛起与发展",
+      "blurb_zh": "回顾 illumos 操作系统的历史与未来，探索其作为 OpenSolaris ",
+      "highlights": [
+        {
+          "text": "10.1s 演讲开场与对历史长河的思考",
+          "start": 10.0
+        },
+        {
+          "text": "111.2s 回忆 Solaris 2.x 艰难的内核演进",
+          "start": 111.0
+        },
+        {
+          "text": "330.0s 软件开发中的仁慈独裁者模型",
+          "start": 330.0
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "\"Do not fall into the trap of anthropomorphizing Larry Ellison\"  hahahaha xD",
+          "text_zh": "“不要陷入将拉里·埃里森拟人化的陷阱”哈哈哈 xD",
+          "likes": 492
+        },
+        {
+          "original": "I've watched this talk multiple times, and I'm just making this list as a reference for my future self so I can quickly find these clips:\n7:45 - Scalability Day\n16:40 - Innovative ideas come from engineers, from individuals: they reflect the people behind them\n27:25 - Governance, politics - forkaphobia\n29:32 - OpenSolaris sock puppet performance\n35:30 - What you think of Oracle is even truer than what you think it is: \"Shit mediocrity, inflict misery, lie our asses off, screw our customers, and make a whole shitload of money\"\n38:28 - Do not fall into the trap of anthropomorphizing Larry Ellison. . .The lawnmower doesn't care about OpenSolaris - the lawnmower doesn't have empathy\n43:26 - Because I didn't work at Oracle [anymore], I couldn't quit over this. . .I wanted to quit over it, but I couldn't\n56:14 - There is a file system crisis in Linux and KVM. . .it's clown college [btrfs, etc.]\n57:05 - If you jailbreak out of QEMU in our KVM implementation, you just find yourself in a zone. Congratulations, you've now burrowed out into a much more secure cell\n59:00 - I didn't think this [illumos hackathon] was going to work. Who's gonna hack on an operating system? It's complicated. It's like, \"let's go hack on a 747-800!\" You don't do that! It might crash!\n1:02:30 - Linux has not included DTrace primarily for licensing/religious issues",
+          "text_zh": "我已经看过好几次这个演讲了，做个时间戳列表留作参考以便快速找到精彩片段：\n7:45 - 可扩展性日\n16:40 - 创新想法来自工程师和个人：它们反映了背后的创造者\n27:25 - 治理、政治与“分支恐惧症”\n29:32 - OpenSolaris 木偶戏表演\n35:30 - 你对甲骨文的看法甚至比你想象的还要真实：“制造平庸、带来痛苦、疯狂说谎、坑害客户并赚大钱”\n38:28 - 不要陷入将拉里·埃里森拟人化的陷阱……割草机才不在乎 OpenSolaris 呢，割草机没有同理心\n43:26 - 因为我（当时）不在甲骨文工作了，所以我没法为此辞职……我很想为这事辞职，但没法辞\n56:14 - Linux 和 KVM 正面临文件系统危机……简直像小丑学校 [btrfs 等]\n57:05 - 如果你在我们的 KVM 实现中逃离 QEMU，你会发现自己身处一个 Zone 中。恭喜，你钻进了一个更安全的隔离区\n59:00 - 我当时觉得这个 [illumos 黑客马拉松] 不会成功。谁会去魔改一个操作系统？太复杂了。这就好比说“咱们去魔改一架波音 747-800 吧！”你不能这么干，会坠机的！\n1:02:30 - Linux 没能包含 DTrace 主要还是出于许可和意识形态/宗教问题",
+          "likes": 155
+        },
+        {
+          "original": "I usually watch videos at 1.25x speed. Not with Bryan Cantrill.",
+          "text_zh": "我通常以 1.25 倍速看视频，但看 Bryan Cantrill 的视频除外。",
+          "likes": 149
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 3403,
+        "completion_tokens": 1146,
+        "total_tokens": 4549
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 3403,
+        "completion_tokens": 1146,
+        "total_tokens": 4549
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:39:30Z"
+    },
+    "rStL7niR7gs": {
+      "title_zh": "试图公正统治，你就会被推翻",
+      "blurb_zh": "揭秘政治权力的残酷本质与统治者的生存法则。",
+      "highlights": [
+        {
+          "text": "没有谁能独自统治，统治者需要关键支持者。",
+          "start": 47.8
+        },
+        {
+          "text": "将财富花费在民众身上，等于给竞争对手递刀子。",
+          "start": 174.9
+        },
+        {
+          "text": "为了巩固权力，必须精简并踢开不必要的关键支持者。",
+          "start": 296.1
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "\"Democracies are better places to live than dictatorships not because representatives are better people, but because their needs happen to be aligned with a large portion of the population\". This might be the most optimistic sentence in this video, in a weird way",
+          "text_zh": "“民主国家比独裁国家更宜居，不是因为代表们更好，而是因为他们的需求恰好与大部分人口一致。”这可以说是本视频中最乐观的一句话了，虽然感觉怪怪的。",
+          "likes": 45632
+        },
+        {
+          "original": "Instructions unclear, became a key smith",
+          "text_zh": "操作说明没看懂，结果我成了配钥匙的。",
+          "likes": 32498
+        },
+        {
+          "original": "I know the banana represents food, but I like the idea that all dictators have one key guy who demands bananas",
+          "text_zh": "我知道香蕉代表食物，但我更喜欢这种脑洞：每个独裁者都有一个非要香蕉不可的关键手下。",
+          "likes": 29135
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 3225,
+        "completion_tokens": 435,
+        "total_tokens": 3660
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 3225,
+        "completion_tokens": 435,
+        "total_tokens": 3660
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:44:21Z"
+    },
+    "7Pq-S557XQU": {
+      "title_zh": "马的命运，会是人类的未来吗？",
+      "blurb_zh": "深入探讨自动化与人工智能如何像当年的机械肌肉取代马匹一样，逐步颠覆人类的工作岗位",
+      "highlights": [
+        {
+          "text": "机械大脑正在取代人类的脑力劳动",
+          "start": 51.0
+        },
+        {
+          "text": "通用机器人正成为当年的个人电脑",
+          "start": 113.0
+        },
+        {
+          "text": "自动驾驶汽车将彻底改变人类出行",
+          "start": 302.0
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "\"you might think technology can't replace your job\"\nI'd be pretty horrified if technology started replacing unemployed peoples jobs.",
+          "text_zh": "“你可能觉得科技无法取代你的工作”\n如果科技开始取代失业者的工作，我会感到非常恐慌。",
+          "likes": 31861
+        },
+        {
+          "original": "Aged like fine wine",
+          "text_zh": "像美酒一样愈发醇香（指预言十分准确）",
+          "likes": 31264
+        },
+        {
+          "original": "\"The human brain is the most complicated machine, perhaps in the whole universe.\"\n\n- Human Brain",
+          "text_zh": "“人脑或许是整个宇宙中最复杂的机器。”\n——人类的大脑",
+          "likes": 24158
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 2807,
+        "completion_tokens": 374,
+        "total_tokens": 3181
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 2807,
+        "completion_tokens": 374,
+        "total_tokens": 3181
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:42:50Z"
+    },
+    "PHe0bXAIuk0": {
+      "title_zh": "经济这台机器是怎样运行的",
+      "blurb_zh": "雷·达利欧用30分钟动画带你轻松看懂经济运行的本质。",
+      "highlights": [
+        {
+          "text": "0.1s 经济运行的宏观逻辑概览",
+          "start": 0.1
+        },
+        {
+          "text": "34.3s 交易作为经济机器的基本构建模块",
+          "start": 34.3
+        },
+        {
+          "text": "210.4s 信用在经济中所扮演的核心作用",
+          "start": 210.4
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "The public school system sucks. I get all of my education on YouTube.",
+          "text_zh": "公立学校系统太烂了，我所有的知识都是在YouTube上学的。",
+          "likes": 19705
+        },
+        {
+          "original": "Can we all take a moment to appreciate the quality of the animation here!! Simply extraordinary",
+          "text_zh": "大家能花点时间欣赏一下这里的动画质量吗！！简直太非凡了。",
+          "likes": 16718
+        },
+        {
+          "original": "The moral of the story: Debt is for investment, not expenditure.",
+          "text_zh": "这个故事的寓意是：负债是为了投资，而不是为了消费。",
+          "likes": 4534
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 2962,
+        "completion_tokens": 368,
+        "total_tokens": 3330
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 2962,
+        "completion_tokens": 368,
+        "total_tokens": 3330
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:42:13Z"
+    },
+    "f84n5oFoZBc": {
+      "title_zh": "吊床驱动开发 - Rich Hickey",
+      "blurb_zh": "探讨软件开发中的深度思考与设计哲学，解决根本 misconception。",
+      "highlights": [
+        {
+          "text": "15.5s 开场致辞与探讨深度思考的重要价值",
+          "start": 15.5
+        },
+        {
+          "text": "249.2s 设计阶段是修复软件缺陷成本最低的地方",
+          "start": 249.2
+        },
+        {
+          "text": "384.7s 重新定义分析与设计：识别问题与评估方案",
+          "start": 384.7
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "I got good at explaining problems by explaining them to my dog.\nThe dog enjoyed the attention, I benefited from formulating the problem in words. Win-win.\nSince my dog passed, I have been having a hard time coming up with a replacement explanation target. I should just get another dog.",
+          "text_zh": "我以前经常把问题解释给我的狗听来理清思路。狗享受了关注，我通过组织语言受益匪浅，双赢。自从我的狗去世后，我一直很难找到替代的倾听对象。我应该再去养只狗。",
+          "likes": 101
+        },
+        {
+          "original": "\"Not everything is awesome.\" Amen! Thank you, Rich.",
+          "text_zh": "“并不是每件事都很棒。”说得对！谢谢你，Rich。",
+          "likes": 43
+        },
+        {
+          "original": "I like bed driven development, I'm gonna try hammock now. Thanks Rich :)",
+          "text_zh": "我喜欢床铺驱动开发，现在我要去试试吊床了。谢谢 Rich :)",
+          "likes": 26
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 2951,
+        "completion_tokens": 445,
+        "total_tokens": 3396
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 2951,
+        "completion_tokens": 445,
+        "total_tokens": 3396
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:41:55Z"
+    },
+    "yJDv-zdhzMY": {
+      "title_zh": "所有演示之母 - 道格拉斯·恩格尔巴特 (1968)",
+      "blurb_zh": "带你回到1968年，见证现代计算机图形交互界面的诞生地。",
+      "highlights": [
+        {
+          "text": "演示文字处理与文件系统操作",
+          "start": 217.0
+        },
+        {
+          "text": "展示视图控制与大纲折叠功能",
+          "start": 357.0
+        },
+        {
+          "text": "演示购物清单的实时编辑与浏览",
+          "start": 528.0
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "I don't understand -  this should be celebrated as one of those moments in history when someone steps out of relative obscurity and changes EVERYTHING. Imagine Edison coming out of nowehere and not just presenting the light bulb, but a city block fully lit with street lamposts, and fully lit apartment building with individual units all set up with light switches, ceiling lamps, desk lamps etc etc. This is like Einstein's Miracle Year, or the publication of The Origin of Species. This is absolutely monumental. Epochal. \n\nHow could they have put together all that technology, HARDWARE AND SOFTWARE in one working system? The vision it must have took to assemble all the disparate technologies into this is beyond comprehension.",
+          "text_zh": "我不明白——这本该被誉为历史上最伟大的时刻之一，有人从默默无闻中走出来，改变了一切。这就像爱因斯坦的奇迹年，绝对具有划时代的意义。他们究竟是怎么把所有这些软硬件技术组合成一个完整的工作系统的？",
+          "likes": 1624
+        },
+        {
+          "original": "This guy was literally 30+ yrs ahead of his time.  He's even got a gamer headset on lol.",
+          "text_zh": "这家伙简直领先了他所在的时代30多年。他甚至还戴着游戏耳机哈哈。",
+          "likes": 1167
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 2556,
+        "completion_tokens": 627,
+        "total_tokens": 3183
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 2556,
+        "completion_tokens": 627,
+        "total_tokens": 3183
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:41:08Z"
+    },
+    "u6XAPnuFjJc": {
+      "title_zh": "驱动力：揭示人类动机的惊人真相",
+      "blurb_zh": "颠覆传统的金钱奖励认知，深入探讨激发内在动机的核心要素。",
+      "highlights": [
+        {
+          "text": "机械技能与认知技能的奖励差异",
+          "start": 108.0
+        },
+        {
+          "text": "MIT与印度农村的激励实验",
+          "start": 54.0
+        },
+        {
+          "text": "自主性、专精与目的性的驱动三要素",
+          "start": 306.0
+        }
+      ],
+      "comments_zh": [
+        {
+          "original": "You could possibly translate this ideology into the classroom by making learning the primary focus rather than grades.",
+          "text_zh": "你可以将这种理念应用到课堂中，让学习成为首要目标，而不是分数。",
+          "likes": 1932
+        },
+        {
+          "original": "how big is this freaking board?",
+          "text_zh": "这块疯狂的白板到底有多大？",
+          "likes": 1280
+        },
+        {
+          "original": "Working together on something for a purpose (other than just making profit) is awesome. People love to work but they hate to do useless work.",
+          "text_zh": "为了一个目标（不仅仅是为了盈利）而共同努力的感觉太棒了。人们喜欢工作，但讨厌做无用功。",
+          "likes": 863
+        }
+      ],
+      "has_transcript": true,
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_usage": {
+        "prompt_tokens": 2956,
+        "completion_tokens": 360,
+        "total_tokens": 3316
+      },
+      "deepseek_usage": {
+        "prompt_tokens": 2956,
+        "completion_tokens": 360,
+        "total_tokens": 3316
+      },
+      "youtube_comment_units": 1,
+      "updated_at": "2026-11-06T14:38:51Z"
+    }
+  },
+  "stats": {
+    "processed": 10,
+    "with_transcript": 10,
+    "with_timestamp_highlights": 10,
+    "llm_tokens": 35030,
+    "prompt_tokens": 29721,
+    "completion_tokens": 5309,
+    "youtube_units": 10,
+    "providers": {
+      "gemini": 10
+    },
+    "models": {
+      "gemini-3.5-flash-lite": 10
+    }
+  }
+}
